@@ -1,4 +1,4 @@
 
-Projet: MotherFuckingWebsite
+**Projet:** MotherFuckingWebsite
 
-This is the BestMotherFuckingWebsite
+This is the **BestMotherFuckingWebsite**
